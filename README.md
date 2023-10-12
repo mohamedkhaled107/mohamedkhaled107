@@ -5,6 +5,12 @@
 <p align="left">👨🏻‍💻I'm currently learning embedded systems.<br>🏫 Senior Electrical Engineering Student at Faculty of Engineering Ain Shams University</p>
 
 ###
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
